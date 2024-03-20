@@ -1,4 +1,4 @@
-# Modern Fon Stacks Mixins
+# Modern Font Stacks Mixins
 
 [Iron Oxide Labs LLC](https://www.ironoxidelabs.com) presents sass mixins of [Modern Font Stacks](https://www.modernfontstacks.com) font stacks.
 
