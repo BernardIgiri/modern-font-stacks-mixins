@@ -3,7 +3,7 @@
 	"author": "Iron Oxide Labs LLC <admin@ironoxidelabs.com>",
 	"description": "Sass mixins of modernfontstacks.com font stacks.",
 	"license": "CC0 1.0 Universal",
-	"version": "0.1",
+	"version": "0.1.1",
 	"main": "index.scss",
 	"repository": {
 		"type": "git",
